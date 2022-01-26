@@ -40,7 +40,7 @@ h1 {
 .wrong-letters-container {
   position: absolute;
   top: 20px;
-  right: 20px;
+  right: 70px;
   display: flex;
   flex-direction: column;
   text-align: right;
